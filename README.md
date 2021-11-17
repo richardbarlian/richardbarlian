@@ -8,4 +8,5 @@ richardbarlian/richardbarlian is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+### Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/{richardbarlian/count.svg)
