@@ -1,3 +1,5 @@
+# Richard Barlian
+--
 - 👋 Hi, I’m @richardbarlian
 - 👀 I’m interested in coding
 - 🐍 I’m currently learning python
