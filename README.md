@@ -7,11 +7,11 @@ class Richard:
         self.name = "Richard"
         self.interest = "Python"
 	self.email = "richard.barlian@gmail.com"
-    def short_description(self):
+    def hi(self):
         print("Thanks for dropping by, hope you find some of my repositories interesting.")
 
 me = Richard()
-me.short_description()
+me.hi()
 ```
 
 <!---
