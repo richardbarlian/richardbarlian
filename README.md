@@ -7,7 +7,7 @@ class Richard:
         self.interest = "Python"
 	self.email = "richard.barlian@gmail.com"
     def short_description(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for dropping by, hope you find some of my repositories interesting.")
 
 me = Richard()
 me.short_description()
