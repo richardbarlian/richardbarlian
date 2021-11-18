@@ -1,8 +1,17 @@
 ## 👋 Hi, I’m @richardbarlian
 #### I like doing ML/AI projects
-- 👀 I’m interested in coding
-- 🐍 I’m currently learning python
-- 📫 How to reach me: richard.barlian@gmail.com
+```python
+class Richard:
+    def __init__(self):
+        self.name = "Richard"
+        self.interest = "Python"
+	self.email = "richard.barlian@gmail.com"
+    def short_description(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = Richard()
+me.short_description()
+```
 
 <!---
 richardbarlian/richardbarlian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
