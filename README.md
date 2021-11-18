@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @richardbarlian
-#### I like doing ML/AI projects
+### I like doing ML/AI projects
+### A little bit more about me...
 ```python
 class Richard:
     def __init__(self):
